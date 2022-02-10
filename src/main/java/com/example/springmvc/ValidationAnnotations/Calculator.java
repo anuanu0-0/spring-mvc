@@ -1,4 +1,4 @@
-package com.example.springmvc.MVC_ValidationAnnotations;
+package com.example.springmvc.ValidationAnnotations;
 
 import lombok.Data;
 
